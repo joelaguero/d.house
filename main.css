@@ -103,3 +103,22 @@ input#ss-submit {
 	font-size: .7em;
 	vertical-align: bottom;
 }
+
+#thank-you {
+	color: #333;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	height: 100%;
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-top: 45%;
+	width: 50%;
+}
+
+body#thanks-page {
+	width: 100%;
+	height: auto;
+	background-color: white;
+
+}
