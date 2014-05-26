@@ -1,0 +1,105 @@
+body {
+	font-family: Helvetica;
+}
+
+#top-bar {
+	height: 2px;
+	background-color: #990000;
+}
+
+#container {
+	margin: 5%;
+}
+
+.ss-q-long {
+	display: block;
+	width: 100%;
+}
+
+.ss-q-title {
+	padding: 2% 0% 2% 0%;
+	font-size: 1.1em;
+}
+
+.ss-choice-item {
+	color: white;
+}
+
+.ss-choice-label {
+	color: #333;
+	padding-left: 5px;
+	font-weight: normal;
+}
+
+.ss-q-other {
+	color: #333;
+	height: 25px;
+	border: 0px;
+}
+
+.ss-q-short {
+	height: 25px;
+}
+
+.ss-choices {
+	margin: 0px;
+}
+
+.ss-section-title {
+	margin: 0px;
+}
+
+.ss-q-item-label {
+	padding-top: 1%;
+}
+
+h2 {
+	padding-bottom: 10px;
+}
+
+.ss-q-help {
+	font-style: italic;
+	font-weight: normal;
+}
+
+.pure-button-primary, .pure-button-selected, a.pure-button-primary, a.pure-button-selected {
+	margin-top: 20px;
+	background-color: #990000 !important;
+}
+
+.ss-navigate {
+	margin: -6%;
+}
+
+.ss-navigate table {
+	width: 100%;
+}
+
+input#ss-submit {
+	width: 100%;
+	position: relative;
+	bottom: -100;
+	height: 50px;
+}
+
+.ss-scalerow-fieldcell {
+	padding: 3px;
+
+}
+
+.ss-scalenumber {
+	font-size: 12px;
+	padding-left: 3px;
+}
+
+.ss-rightlabel {
+	padding-left: 10px;
+	font-size: .7em;
+	vertical-align: bottom;
+}
+
+.ss-leftlabel {
+	padding-right: 10px;
+	font-size: .7em;
+	vertical-align: bottom;
+}
